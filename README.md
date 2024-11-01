@@ -9,10 +9,6 @@ I am a developer that building websites.
 
 ---
 
-## My Social Media Accounts
-[Instagram](https://instagram.com/omer.devs)<br/>
-[X](https://x.com/devs_omer)
-
 ## My Personal Website
 [My Biography](https://omerdevs.social/about-me)<br/>
 [Social Media](https://omerdevs.social/login)
